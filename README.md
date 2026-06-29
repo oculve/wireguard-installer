@@ -152,7 +152,7 @@ Found a vulnerability? Contact **security@oculve.com**.
 
 ## License
 
-[MIT](LICENSE) © 2025 Oculve
+[MIT](LICENSE) © 2026 Oculve
 
 ---
 
